@@ -17,12 +17,11 @@ body{
 form {
     background-color: #dae4ff;
     width: 30%;
-    height: 300px;
+    height: 363px;
     margin: 75px;
     float: left;
-
-
 }
+
 body{
  font-family: 'Roboto', sans-serif;
 }
@@ -56,15 +55,27 @@ label {
 }
 ol#toDoList {
     float: right;
-    margin-right: 50%;
+    margin-right: 32%;
+    height: 500px;
     margin-top: 75px;
     list-style: decimal;
 }
 li {
     font-size: 25px;
-    margin-bottom: 9px;}
-    
+    margin-bottom: 9px;
+    width: 361px;
+    height: 100%;
+}
+
 h4 {
     font-size: 9px;
     color: #6d8adbc7;
+}
+h4.x {
+    float: right;
+    margin-right: -631%;
+    font-size: 29px;
+    margin-top: -27px;
+    cursor: pointer;
+    color: red;
 }
