@@ -1,0 +1,70 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    padding-top: 14px;
+
+}
+header {
+    width: 100%;
+    background-color: #6d8adbc7;
+    height: 60px;
+
+}
+body{
+    background-color: #eee;
+}
+form {
+    background-color: #dae4ff;
+    width: 30%;
+    height: 300px;
+    margin: 75px;
+    float: left;
+
+
+}
+body{
+ font-family: 'Roboto', sans-serif;
+}
+h2 {
+    text-align: center;
+    font-weight: 600;
+    font-size: larger;
+    margin-bottom: 29px;
+    margin-top: 31px;
+}
+input {
+    width: 303px;
+    height: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+button {
+    margin-left: 246px;
+    height: 35px;
+    color: white;
+    background: #6d8adbc7;
+    border: 0;
+    cursor: pointer;
+}
+div{
+    margin: 0 auto;
+    width: 76%;
+}
+label {
+    font-weight: 600;
+}
+ol#toDoList {
+    float: right;
+    margin-right: 50%;
+    margin-top: 75px;
+    list-style: decimal;
+}
+li {
+    font-size: 25px;
+    margin-bottom: 9px;}
+    
+h4 {
+    font-size: 9px;
+    color: #6d8adbc7;
+}
